@@ -1,2 +1,4 @@
 hello world
 I learning the git
+
+second line to newfile
